@@ -15,5 +15,6 @@ En este curso a programar en python
 ## *Repositorios*
 - [Introducción](https://github.com/Xavier-Grajales/FundamentosPython/blob/main/Introducci%C3%B3n.ipynb)
 - [Canedas, bucles, ciclos y condicionales](https://github.com/Xavier-Grajales/FundamentosPython/blob/main/CondicionalesCadenasBucles.ipynb)
+- [Listas](https://github.com/Xavier-Grajales/FundamentosPython/blob/main/Listas.ipynb)
 ----------------------------------------------------------------------------------
 
